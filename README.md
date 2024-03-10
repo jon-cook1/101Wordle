@@ -9,7 +9,7 @@ This Python project is a simple implementation of a Wordle-like game created for
 - Python 3.x installed on your system.
 - Tkinter installed (comes with Python for most distributions).
 - `pynput` library for capturing keyboard events. Install via pip if necessary:
-pip install pynput
+`pip install pynput`
 
 ### Installation
 
@@ -20,7 +20,7 @@ pip install pynput
 ### How to Run
 
 Navigate to the directory containing the game's script and run:
-python main.py
+`python main.py`
 
 ## Game Objective
 
