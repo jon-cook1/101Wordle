@@ -20,7 +20,7 @@ pip install pynput
 ### How to Run
 
 Navigate to the directory containing the game's script and run:
-- 'python main.py'
+python main.py
 
 ## Game Objective
 
